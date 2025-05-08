@@ -1,0 +1,5 @@
+#modules
+/server/node_modules
+
+#environment variables
+/server/.env
